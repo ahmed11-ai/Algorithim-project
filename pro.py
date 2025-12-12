@@ -66,3 +66,14 @@ if __name__ == "__main__":
     else:
         print("Shortest distance from home to college:", distance, "km")
         print("Path:", " -> ".join(path))
+
+
+
+
+///////PROGRAM RUN
+[Running] python -u "c:\Users\Ahmed\OneDrive\Desktop\algo project\pro.py"
+Shortest distance from home to college: 3 km
+Path: home -> college
+
+[Done] exited with code=0 in 0.656 seconds
+
